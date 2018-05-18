@@ -12,3 +12,6 @@ The project is Controller Design for Complex Path Following of the TurtleBot
 6. transform2D: define necessary functions useful in finding the poses of TurtleBot from odometry data
 
 note: transform2D is written by Professor Matt Zucker, which is shared to me by Professor Steve McGill when I took the class E28 Mobile Robotics in Swarthmore Engineering Department.
+
+# Other
+Path 1 and Path2 are two maps for two trials
